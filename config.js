@@ -46,5 +46,17 @@ const tracks = [
   {
   "command": "vousrigolez",
   "file": "./sounds/vous_rigolez_jespere.mp3"
+  },
+  {
+  "command": "poupi",
+  "file": "./sounds/poopi.mp3"
+  },
+  {
+  "command": "treve",
+  "file": "./sounds/pas_de_paix.mp3"
+  },
+  {
+  "command": "fautquevousarretiez",
+  "file": "./sounds/faut_que_vous_arretiez.mp3"
   }
 ];
