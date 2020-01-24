@@ -29,7 +29,7 @@ const tracks = [
   },
   {
   "command": "sortezvouslesdoigts",
-  "file": "./sounds/sortez-vous_les_doigts_du_cu3"
+  "file": "./sounds/sortez-vous_les_doigts_du_cul.mp3"
   },
   {
   "command": "grosnul",
@@ -45,6 +45,6 @@ const tracks = [
   },
   {
   "command": "vousrigolez",
-  "file": "./sounds/vous_rigolez_jespere.m3"
+  "file": "./sounds/vous_rigolez_jespere.mp3"
   }
 ];
