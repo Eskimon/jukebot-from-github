@@ -120,7 +120,7 @@
           cooldown['tracks'][command] = now;
           cooldown['command'] = now;
 
-          player.src = `./${tracks[idx]['file']}`;
+          player.src = ${tracks[idx]['file']};
           player.play()
             .then(() => {
               isPlaying = true;

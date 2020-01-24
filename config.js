@@ -17,10 +17,10 @@ const config = {
 const tracks = [
   {
     "command": "volette",
-    "file": "/sounds/a_la_volette1.mp3"
+    "file": "./sounds/a_la_volette1.mp3"
   },
   {
     "command": "amoi",
-    "file": "/sounds/a_moi.mp3"
+    "file": "./sounds/a_moi.mp3"
   },
 ];
