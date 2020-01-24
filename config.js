@@ -23,4 +23,4 @@ const tracks = [
     "command": "amoi",
     "file": "/sounds/a_moi.mp3"
   },
-]
+];
