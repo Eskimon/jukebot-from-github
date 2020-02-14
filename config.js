@@ -1,4 +1,4 @@
-export config = {
+const config = {
   "prefix": "!play", 
   "cooldown": {
     "track": 10, 
@@ -14,7 +14,7 @@ export config = {
   }
 }
 
-export tracks = [
+const tracks = [
   {
     "command": "2 3 poils de Q", 
     "file": "./sounds/2_3_poils_de_Q.mp3"
