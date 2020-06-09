@@ -464,6 +464,10 @@ const tracks = [
     "file": "./sounds/ca_me_plait_qu_a_moitie.mp3"
   }, 
   {
+    "command": "ca-ne-plaisante-plus", 
+    "file": "./sounds/ca-ne-plaisante-plus.mp3"
+  }, 
+  {
     "command": "ca_va_encore_faire_des_discussions_a_rallonge", 
     "file": "./sounds/ca_va_encore_faire_des_discussions_a_rallonge.mp3"
   }, 
@@ -2206,6 +2210,10 @@ const tracks = [
   {
     "command": "signe_de_vouloir_discuter", 
     "file": "./sounds/signe_de_vouloir_discuter.mp3"
+  }, 
+  {
+    "command": "si-je-reflechissais", 
+    "file": "./sounds/si-je-reflechissais.mp3"
   }, 
   {
     "command": "sils_sont_equidistants_on_peut_reperer_le_dragon", 
