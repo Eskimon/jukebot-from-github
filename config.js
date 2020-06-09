@@ -2208,6 +2208,10 @@ const tracks = [
     "file": "./sounds/signe_de_vouloir_discuter.mp3"
   }, 
   {
+    "command": "si-je-reflechissais", 
+    "file": "./sounds/si-je-reflechissais.mp3"
+  }, 
+  {
     "command": "sils_sont_equidistants_on_peut_reperer_le_dragon", 
     "file": "./sounds/sils_sont_equidistants_on_peut_reperer_le_dragon.mp3"
   }, 
