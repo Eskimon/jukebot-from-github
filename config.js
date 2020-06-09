@@ -464,6 +464,10 @@ const tracks = [
     "file": "./sounds/ca_me_plait_qu_a_moitie.mp3"
   }, 
   {
+    "command": "ca-ne-plaisante-plus", 
+    "file": "./sounds/ca-ne-plaisante-plus.mp3"
+  }, 
+  {
     "command": "ca_va_encore_faire_des_discussions_a_rallonge", 
     "file": "./sounds/ca_va_encore_faire_des_discussions_a_rallonge.mp3"
   }, 
